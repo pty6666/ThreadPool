@@ -1,0 +1,6 @@
+# ninja log v5
+4	2600	7041964611929580	CMakeFiles/thread_pool.dir/main.cpp.obj	3eaed6a303898cc4
+1250	1466	7043869697862757	thread_pool.exe	f0ebce8193d382f3
+2	386	7052654848732131	build.ninja	ef3d0f96711d6e67
+4	1250	7043869695793543	CMakeFiles/thread_pool.dir/A.cpp.obj	87751f52653aef0c
+2	749	7042902386795220	CMakeFiles/thread_pool.dir/B.cpp.obj	a6a8c37465ce295d
